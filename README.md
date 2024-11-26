@@ -17,9 +17,7 @@
 
 - **Herramientas de Desarrollo**:
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  - ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🎓 Educación
 
@@ -38,7 +36,7 @@
 
 ![KLEYDEV07's Stats](https://github-readme-stats.vercel.app/api?username=KLEYDEV07&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-![KLEYDEV07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KLEYDEV07&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![KLEYDEV07's python](https://github-readme-stats.vercel.app/api/top-langs/?username=KLEYDEV07&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 📂 Proyectos Destacados
 
